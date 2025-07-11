@@ -52,4 +52,6 @@
 | 16      | Advanced Tools | Delta Lake, Apache Iceberg, Z-Ordering, Lakehouse concepts |
 
 ---
-
+<p align ="center">
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/ChatGPT%20Image%20Jul%2011%2C%202025%2C%2006_27_30%20PM.png" height = "500%" /img>
+</p>
