@@ -1,4 +1,4 @@
-# ** Coding Syntax and Theory - 2:**
+# **Coding Syntax and Theory - 2:**
 
 ### 🧑‍💻 **Step 1: Setting Up PySpark**
 
